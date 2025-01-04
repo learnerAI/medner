@@ -14,9 +14,7 @@ We aim to assess different BERT variants (e.g., Original BERT, BioBERT, Clinical
 
 - **`Bert_training_finetuning.ipynb`**: Jupyter/Colab notebook for fine-tuning the BERT model with MLM.
 - **`bert_custom_final.ipynb`**: Jupyter/Colab notebook for generating NER annotations and training a SpaCy NER model.
-- **`config.cfg` & `base_config.cfg`**: SpaCy configuration files for training the NER model.
-- **`data/`**: (Folder to be modified) Contains your text data for each model. Replace or rename subfolders (e.g., `data 1`, `data 2`, `data 3`) depending on which dataset you want to train on.
-- **`annotations/`**: Contains corresponding annotation files (e.g., `.tsv` files) for NER tasks.
+- **`base_config.cfg`**: SpaCy configuration files for training the NER model.
 
 ---
 
