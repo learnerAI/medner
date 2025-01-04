@@ -1,4 +1,4 @@
-# Repository Documentation
+# Documentation
 
 ## 1. Introduction
 This repository contains code for:
